@@ -1,0 +1,13 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Variables
+//@import 'variables';
+
+.v-toolbar a:hover, .v-navigation-drawer a:hover {
+  text-decoration: none;
+}
